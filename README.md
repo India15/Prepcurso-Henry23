@@ -1,2 +1,2 @@
-# Prepcurso-Henry23
-Este es un repositorio de prueba del precurso de Henry
+Florencia Farfán Busquets
+Este es un proyecto de prueba para crear un repositorio y clonarlo desde Github al computador.
